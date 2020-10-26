@@ -1,0 +1,11 @@
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\bin\Debug\netcoreapp3.1\taskk.exe
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\bin\Debug\netcoreapp3.1\taskk.deps.json
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\bin\Debug\netcoreapp3.1\taskk.runtimeconfig.json
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\bin\Debug\netcoreapp3.1\taskk.runtimeconfig.dev.json
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\bin\Debug\netcoreapp3.1\taskk.dll
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\bin\Debug\netcoreapp3.1\taskk.pdb
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\obj\Debug\netcoreapp3.1\taskk.csprojAssemblyReference.cache
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\obj\Debug\netcoreapp3.1\taskk.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\obj\Debug\netcoreapp3.1\taskk.AssemblyInfo.cs
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\obj\Debug\netcoreapp3.1\taskk.dll
+C:\CodebitsAcademy\c#\daze-works\labtask7\taskk\obj\Debug\netcoreapp3.1\taskk.pdb
